@@ -1,0 +1,14 @@
+layout_spectrum: 0.4028478490654379
+typography_spectrum: 0.6033583506941795
+color:
+  brandStrength: 0.4712794818915427
+  lightness: 0.12262098677456379
+  saturation: 0.9615673741791397
+  rhythmicContrast: 0.016608479199931026
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: AdStar
