@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T03:00:34.016Z'
+datePublished: '2016-08-17T03:02:30.275Z'
 sourcePath: >-
   _posts/2016-04-15-from-science-fiction-to-reality-the-evolution-of-artificial.md
 inFeed: true
@@ -19,11 +19,9 @@ keywords:
   - fiction
   - data
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-17T03:00:33.670Z'
+dateModified: '2016-08-17T03:02:29.885Z'
 title: Analog Lives
 app_links: []
 publisher: {}
