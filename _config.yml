@@ -1,4 +1,3 @@
-layout_spectrum: 0.4028478490654379
 typography_spectrum: 0.6033583506941795
 color:
   brandStrength: 0.4712794818915427
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.4028478490654379
 name: AdStar
+title: Keeping Adverts
