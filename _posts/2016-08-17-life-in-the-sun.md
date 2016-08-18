@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T23:37:48.387Z'
+datePublished: '2016-08-18T23:42:23.406Z'
 sourcePath: _posts/2016-08-17-life-in-the-sun.md
 author: []
 via: {}
-dateModified: '2016-08-18T23:37:47.916Z'
+dateModified: '2016-08-18T23:42:22.970Z'
 title: Homes
 publisher: {}
 description: Life in the sun
@@ -22,4 +22,4 @@ Life in the sun
 ### Homes
 
 ### Web Sites For Real Estate
-![Custom Sites and Photography](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8155a736-d3cb-4ca4-9296-7b4c122ee2f6.jpg)
+![Custom Sites and Photography](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03f6f2a4-1261-49fc-8f41-0cf3598e41b5.jpg)
