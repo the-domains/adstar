@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T23:34:38.086Z'
+datePublished: '2016-08-18T23:37:48.387Z'
 sourcePath: _posts/2016-08-17-life-in-the-sun.md
 author: []
 via: {}
-dateModified: '2016-08-18T23:34:37.610Z'
+dateModified: '2016-08-18T23:37:47.916Z'
 title: Homes
 publisher: {}
 description: Life in the sun
@@ -21,6 +21,5 @@ Life in the sun
 
 ### Homes
 
-Web Sites For Real Estate
-
-<article style=""><img src="http://nebula.wsimg.com/4c85feb0eb258acbb5418ae607755b3d?AccessKeyId=F04C81CE9BF14F3AE026&amp;disposition=0&amp;alloworigin=1" /><h1>Home</h1><p>New Entry &amp; Hall hardwood floors w/ Carpet throughout</p></article>
+### Web Sites For Real Estate
+![Custom Sites and Photography](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8155a736-d3cb-4ca4-9296-7b4c122ee2f6.jpg)
