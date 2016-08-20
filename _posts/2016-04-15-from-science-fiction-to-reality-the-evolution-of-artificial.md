@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T03:08:03.971Z'
+datePublished: '2016-08-20T05:06:10.555Z'
 sourcePath: >-
   _posts/2016-04-15-from-science-fiction-to-reality-the-evolution-of-artificial.md
 inFeed: true
@@ -21,10 +21,12 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-17T03:08:03.625Z'
+dateModified: '2016-08-20T04:57:44.310Z'
 title: Analog Lives
 app_links: []
-publisher: {}
+publisher:
+  url: >-
+    https://www.vcreporter.com/2015/08/06/local-music-issue-megasound-studios-and-the-n-word/
 description: Big City Sound by the Beach
 inLanguage: en
 inNav: false
