@@ -4,8 +4,15 @@
         <description><![CDATA[ADSTAR]]></description>
         <link>https://thegrid.ai/adstar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 05:01:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 05:06:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adstar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Analog Lives]]></title>
+            <description><![CDATA[<article><h1>Analog Lives</h1><p>Big City Sound by the Beach</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d722dd37-4bdb-4dc7-a3c9-57bb9ab31511.jpg"></article>]]></description>
+            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
+            <guid isPermaLink="false">2e9be5e5-1650-491f-b8ce-ce38e117f9fa</guid>
+            <pubDate>Sat, 20 Aug 2016 05:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Video Soldiers]]></title>
             <description><![CDATA[<article><h1>Video Soldiers</h1><p>Beautiful Lights</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b63ec51-db16-44b2-aba5-25408dff8daf.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/adstar/life-in-the-sun/index.html</link>
             <guid isPermaLink="false">9541cf34-c48f-4ecd-9c7d-60b12c59bc60</guid>
             <pubDate>Thu, 18 Aug 2016 23:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analog Lives]]></title>
-            <description><![CDATA[<article><h1>Analog Lives</h1><p>Big City Sound by the Beach</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d722dd37-4bdb-4dc7-a3c9-57bb9ab31511.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">2e9be5e5-1650-491f-b8ce-ce38e117f9fa</guid>
-            <pubDate>Wed, 17 Aug 2016 03:08:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
